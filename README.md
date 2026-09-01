@@ -19,3 +19,10 @@
 * The user can enter the **value and position** where the new node should be inserted.
 * The new node is inserted at the specified position by adjusting the `next` pointers.
 * The updated linked list is displayed after the insertion.
+
+### 5. Deletion from the Beginning
+
+* In this program, we're deleting the first node from an already created singly linked list.
+* The original linked list is displayed before performing the deletion.
+* The first node is removed by moving the `head` pointer to the next node.
+* The updated linked list is displayed after the deletion.
