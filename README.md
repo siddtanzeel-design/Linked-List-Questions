@@ -34,3 +34,11 @@
 * We traverse the list to find the last node and its previous node.
 * The last node is deleted and the `next` pointer of the previous node is set to `NULL`.
 * The updated linked list is displayed after the deletion.
+
+### 7. Deletion at a Specific Position
+
+* In this program, we're deleting a node from an already created singly linked list.
+* The original linked list is displayed before performing the deletion.
+* The user can enter the **position of the node** that needs to be deleted.
+* The required node is deleted by adjusting the `next` pointer of the previous node.
+* The updated linked list is displayed after the deletion.
