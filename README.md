@@ -26,3 +26,11 @@
 * The original linked list is displayed before performing the deletion.
 * The first node is removed by moving the `head` pointer to the next node.
 * The updated linked list is displayed after the deletion.
+
+### 6. Deletion from the End
+
+* In this program, we're deleting the last node from an already created singly linked list.
+* The original linked list is displayed before performing the deletion.
+* We traverse the list to find the last node and its previous node.
+* The last node is deleted and the `next` pointer of the previous node is set to `NULL`.
+* The updated linked list is displayed after the deletion.
