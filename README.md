@@ -52,3 +52,12 @@
 * The user can enter a **value to search** in the list.
 * The `searchElement()` function traverses the list and displays the **position** if the value is found.
 * If the value is not found, a suitable message is displayed.
+
+### 9. Counting the Number of Nodes
+
+* In this program, we're creating a singly linked list using separate functions.
+* The user first enters the **number of nodes** and their data.
+* The `createList()` function creates the list and returns the `head` pointer.
+* The `displayList()` function displays the linked list.
+* The `countingNode()` function traverses the list and counts the total number of nodes.
+* The total number of nodes is then displayed.
