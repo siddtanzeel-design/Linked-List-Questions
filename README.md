@@ -42,3 +42,14 @@
 * The user can enter the **position of the node** that needs to be deleted.
 * The required node is deleted by adjusting the `next` pointer of the previous node.
 * The updated linked list is displayed after the deletion.
+
+### 8. Searching for an Element
+
+* In this program, we're creating a singly linked list using separate functions.
+* The `createList()` function is used to create the linked list and returns the `head` pointer.
+* The `displayList()` function is used to display the elements of the linked list.
+* The user can enter a **value to search** in the linked list.
+* The `searchElement()` function traverses the list and compares each node's data with the given value.
+* If the value is found, its **position** is displayed.
+* If the value is not found, the program displays a suitable message.
+* This program also demonstrates how functions can be used to organize different linked-list operations.
