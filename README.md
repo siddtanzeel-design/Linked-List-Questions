@@ -53,3 +53,13 @@
 * If the value is found, its **position** is displayed.
 * If the value is not found, the program displays a suitable message.
 * This program also demonstrates how functions can be used to organize different linked-list operations.
+
+### 8. Searching for an Element
+
+* In this program, we're creating a singly linked list using separate functions.
+* The user first enters the **number of nodes**, which tells the program how many nodes to create.
+* The `createList()` function creates the list and returns the `head` pointer.
+* The `displayList()` function displays the linked list.
+* The user can enter a **value to search** in the list.
+* The `searchElement()` function traverses the list and displays the **position** if the value is found.
+* If the value is not found, a suitable message is displayed.
