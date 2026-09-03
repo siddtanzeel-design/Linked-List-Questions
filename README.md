@@ -79,3 +79,12 @@
 * If the number of nodes is **odd**, there is one middle node.
 * If the number of nodes is **even**, there are two middle nodes, and both are displayed.
 
+### 12. Checking if a Linked List is a Palindrome
+
+* In this program, we're checking whether a singly linked list is a palindrome.
+* The `createList()` function creates the list and returns the `head` pointer.
+* The `displayList()` function displays the linked list.
+* The `palindromeList()` function counts the number of nodes and stores their data in an array.
+* The elements of the array are compared from both ends to check whether they are the same.
+* The function returns `true` if the list is a palindrome and `false` otherwise.
+
