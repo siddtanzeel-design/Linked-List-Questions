@@ -70,3 +70,12 @@
 * The function returns the new `head` after reversing the list.
 * The original and reversed linked lists are displayed.
 
+### 11. Finding the Middle Node(s)
+
+* In this program, we're finding the middle node(s) of a singly linked list.
+* The `createList()` function creates the list and returns the `head` pointer.
+* The `displayList()` function displays the linked list.
+* The `findMiddle()` function first counts the total number of nodes in the list.
+* If the number of nodes is **odd**, there is one middle node.
+* If the number of nodes is **even**, there are two middle nodes, and both are displayed.
+
