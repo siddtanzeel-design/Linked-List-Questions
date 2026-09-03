@@ -61,3 +61,12 @@
 * The `displayList()` function displays the linked list.
 * The `countingNode()` function traverses the list and counts the total number of nodes.
 * The total number of nodes is then displayed.
+
+### 10. Reversing a Singly Linked List
+
+* In this program, we're reversing an already created singly linked list.
+* The `reverseList()` function reverses the `next` pointers of each node.
+* Three pointers, `previous`, `temp`, and `next` are used to reverse the links.
+* The function returns the new `head` after reversing the list.
+* The original and reversed linked lists are displayed.
+
