@@ -88,3 +88,12 @@
 * The elements of the array are compared from both ends to check whether they are the same.
 * The function returns `true` if the list is a palindrome and `false` otherwise.
 
+### 13. Sorting a Singly Linked List
+
+* In this program, we're sorting a singly linked list using **Merge Sort**.
+* The `createList()` function creates the list and returns the `head` pointer.
+* The `displayList()` function displays the linked list.
+* The `SortingList()` function finds the middle of the list using **slow and fast pointers** and splits the list into two halves.
+* Each half is recursively sorted and then combined using the `mergeList()` function.
+* The sorted linked list is returned and displayed.
+
